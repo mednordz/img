@@ -1,2 +1,2 @@
-# -logos
+# logos
     Logos PNG publics
